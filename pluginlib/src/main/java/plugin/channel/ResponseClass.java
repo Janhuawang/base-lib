@@ -1,8 +1,8 @@
-package rely.channel;
+package plugin.channel;
 
 import io.flutter.plugin.common.MethodChannel;
-import rely.model.FlutterChannel;
-import rely.util.ArgumentUtil;
+import plugin.model.FlutterChannel;
+import plugin.util.ArgumentUtil;
 
 /**
  * 响应对象

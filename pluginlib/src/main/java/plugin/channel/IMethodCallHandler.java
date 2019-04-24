@@ -1,4 +1,4 @@
-package rely.channel;
+package plugin.channel;
 
 import android.text.TextUtils;
 
@@ -6,8 +6,8 @@ import java.util.Map;
 
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
-import rely.model.RequestData;
-import rely.util.ArgumentUtil;
+import plugin.model.RequestData;
+import plugin.util.ArgumentUtil;
 
 /**
  * Method通道回调基类

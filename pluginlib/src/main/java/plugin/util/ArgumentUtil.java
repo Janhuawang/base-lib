@@ -1,10 +1,10 @@
-package rely.util;
+package plugin.util;
 
 import java.util.Map;
 import java.util.UUID;
 
-import rely.model.FlutterChannel;
-import rely.model.ResponseData;
+import plugin.model.FlutterChannel;
+import plugin.model.ResponseData;
 
 
 /**

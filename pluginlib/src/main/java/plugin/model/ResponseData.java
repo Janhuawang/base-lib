@@ -1,8 +1,8 @@
-package rely.model;
+package plugin.model;
 
 import java.util.Map;
 
-import rely.util.FlutterConstant;
+import plugin.util.FlutterConstant;
 
 /**
  * 响应数据块

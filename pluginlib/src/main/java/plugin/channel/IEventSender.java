@@ -1,4 +1,4 @@
-package rely.channel;
+package plugin.channel;
 
 import io.flutter.plugin.common.EventChannel;
 

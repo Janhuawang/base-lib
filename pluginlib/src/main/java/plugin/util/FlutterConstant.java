@@ -1,4 +1,4 @@
-package rely.util;
+package plugin.util;
 
 /**
  * 常量数据

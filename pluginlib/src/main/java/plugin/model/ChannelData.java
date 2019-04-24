@@ -1,4 +1,4 @@
-package rely.model;
+package plugin.model;
 
 import android.util.Log;
 

@@ -1,6 +1,6 @@
-package rely.channel;
+package plugin.channel;
 
-import rely.model.RequestData;
+import plugin.model.RequestData;
 
 /**
  * Method通道回调

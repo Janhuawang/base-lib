@@ -1,4 +1,4 @@
-package rely.plugin;
+package plugin.plugin;
 
 
 import android.text.TextUtils;
@@ -6,11 +6,11 @@ import android.text.TextUtils;
 import io.flutter.plugin.common.BinaryMessenger;
 import io.flutter.plugin.common.EventChannel;
 import io.flutter.plugin.common.MethodChannel;
-import rely.channel.IEventSender;
-import rely.channel.IMethodCallHandler;
-import rely.channel.IMethodCallback;
-import rely.channel.ResponseClass;
-import rely.model.RequestData;
+import plugin.channel.IEventSender;
+import plugin.channel.IMethodCallHandler;
+import plugin.channel.IMethodCallback;
+import plugin.channel.ResponseClass;
+import plugin.model.RequestData;
 
 /**
  * 插件基类

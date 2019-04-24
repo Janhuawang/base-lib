@@ -1,4 +1,4 @@
-package rely.util;
+package plugin.util;
 
 import android.text.TextUtils;
 
